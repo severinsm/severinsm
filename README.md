@@ -18,7 +18,6 @@ Use cases of the chat-app:
 - Healthcare
 - Gouvernement
 - Private institution
-- 
 
 - 📫 How to reach me: discord nightstalker#4201
 
